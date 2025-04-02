@@ -1,4 +1,4 @@
-# SandBox Project
+<img width="1440" alt="Screenshot 2025-04-02 at 11 16 39" src="https://github.com/user-attachments/assets/9d2bea80-d9e4-4cdb-8776-18c81a308771" /># SandBox Project
 Python Project for MIPT (Technology of Programming)
 
 ## This is a simulation automata engine with implementation of sand, water and dirt 
@@ -15,3 +15,4 @@ To have fun:
         "MAX_INS_SIZE = 10"
     this sets up the minimum cell_size that can be in my game
     I highly do not recommend set it very low(like from 1 to 4) due to bad performance
+
