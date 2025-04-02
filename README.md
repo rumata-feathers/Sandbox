@@ -16,4 +16,5 @@ To have fun:
     I highly do not recommend set it very low(like from 1 to 4) due to bad performance
 
 
-<img width="1440" alt="Screenshot 2025-04-02 at 11 16 39" src="https://github.com/user-attachments/assets/9d2bea80-d9e4-4cdb-8776-18c81a308771" /># SandBox Project
+![image](https://github.com/user-attachments/assets/737da395-8ede-4f85-99aa-86c4bb7120be)
+
